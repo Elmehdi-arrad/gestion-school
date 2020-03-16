@@ -1,0 +1,24 @@
+
+ classess timetable Management System
+Create a database "jisort_db"
+
+
+
+
+
+ADMIN
+ LOGIN DETAILS
+USER
+ NAME: admin
+PASSWORD:1234
+
+
+
+ 
+
+
+
+
+
+
+
